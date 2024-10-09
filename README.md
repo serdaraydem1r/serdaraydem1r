@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Serdar</h1>
-<h3 align="center">A Master Student from Türkiye</h3>
+<h3 align="center">A Master Student from Karadeniz Technical University - Statistics and Computer Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
